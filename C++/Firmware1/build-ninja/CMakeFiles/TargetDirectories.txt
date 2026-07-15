@@ -1,3 +1,0 @@
-E:/Code/C++/Firmware1/build-ninja/CMakeFiles/Firmware1.elf.dir
-E:/Code/C++/Firmware1/build-ninja/CMakeFiles/edit_cache.dir
-E:/Code/C++/Firmware1/build-ninja/CMakeFiles/rebuild_cache.dir
